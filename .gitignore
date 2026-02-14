@@ -51,3 +51,15 @@ out
 .security-scan-cache.json
 .security-scan-results.json
 
+# Next.js
+.next
+out
+
+# Local Agent Skills
+.agent/skills/
+.kilocode/skills/
+.opencode/skills/
+
+# Local Documentation
+.docs/
+.specs/

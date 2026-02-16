@@ -63,3 +63,6 @@ out
 # Local Documentation
 .docs/
 .specs/
+
+# VS Code Extension Test
+.vscode-test/

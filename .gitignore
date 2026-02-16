@@ -59,6 +59,7 @@ out
 .agent/skills/
 .kilocode/skills/
 .opencode/skills/
+.codex/skills/
 
 # Local Documentation
 .docs/

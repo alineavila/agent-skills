@@ -426,6 +426,10 @@ This project uses **Conventional Commits** for automated versioning:
 
 Releases are automated via GitHub Actions when merging to `main`.
 
+### VS Code Extension Release
+
+Extension publishing follows a dedicated CI/CD runbook to keep packaging, publishing, and secrets isolated. See `.docs/CI-CD-VSCODE-EXTENSION.md` for workflow names, `VSCE_PAT`/`OVSX_PAT` handling, dry-run commands, and rerun guidance.
+
 ## 🤝 Contributing
 
 1. **Fork** the repository
